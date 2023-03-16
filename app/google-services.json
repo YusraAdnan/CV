@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "491683615728",
+    "project_id": "cvfresh-e24e5",
+    "storage_bucket": "cvfresh-e24e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491683615728:android:f0ac72562f6fcac0d48335",
+        "android_client_info": {
+          "package_name": "com.CvFresh.cv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491683615728-jervm5ts66q8pq0fuup9lpriab91ti0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASi1cnbW-CplpRrk1TUNfJfaVbYH6j3uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491683615728-jervm5ts66q8pq0fuup9lpriab91ti0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491683615728:android:fe4431828088bdc8d48335",
+        "android_client_info": {
+          "package_name": "com.cvFresh.cvfresh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491683615728-jervm5ts66q8pq0fuup9lpriab91ti0f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASi1cnbW-CplpRrk1TUNfJfaVbYH6j3uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "491683615728-jervm5ts66q8pq0fuup9lpriab91ti0f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
